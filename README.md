@@ -2,7 +2,7 @@
 Move two eyes with mouse
 
 <p align="center">
-  <img width="300" height="300" src="Eye-Movement-img"
+  <img width="500" height="300" src="Eye-Movement-img.jpg"
 </p>
 
 ## <ins>What it does
